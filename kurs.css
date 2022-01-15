@@ -1,0 +1,21 @@
+body {
+    background-color:rgb(43, 42, 42);
+    color: rgb(201, 199, 199);
+}
+
+a:link 
+    {
+        color: rgb(205, 202, 50)
+    }
+
+    a:visited
+    {
+        color:rgb(112, 205, 50)
+    }
+
+    a:hover
+    {
+        font-weight:bold;
+        color: white
+
+    }
