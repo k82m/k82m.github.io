@@ -3,6 +3,11 @@ body {
     color: rgb(201, 199, 199);
 }
 
+p
+{
+    color: yellow;
+}
+
 a:link 
     {
         color: rgb(205, 202, 50)
@@ -19,3 +24,10 @@ a:link
         color: white
 
     }
+
+    td{
+        /*komentarz*/
+        text-align: left;    
+    }
+
+
